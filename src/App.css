@@ -1,0 +1,44 @@
+@font-face {
+  font-family: main;
+  src: url(./LEMONMILK-Regular.otf);
+}
+
+.App {
+  border-radius: 20px;
+  text-align: center;
+  font-family: main;
+  background-color: #e9d2ef;
+  padding: 30px;
+  margin-top: 50px;
+  width: calc(100% / 1.8);
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 300px;
+}
+
+.inputBar{
+  font-size: 15px;
+  border-radius: 20px;
+  padding: 10px;
+  border: solid 2px #791594;
+  transition: 0.3s ease-in-out;
+  font-family: main;
+  width: 200px;
+}
+
+.inputBar:focus {
+  border: solid 2px #b290bc;
+  outline: none;
+}
+
+.button{
+  font-size: 15px;
+  border-radius: 20px;
+  border: none;
+  font-family: main;
+  color: white;
+  background-color: #791594;
+  padding: 10px 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
