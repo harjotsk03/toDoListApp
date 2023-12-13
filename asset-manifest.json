@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/harjotsk03/toDoListApp/static/css/main.b65e3aee.css",
+    "main.js": "/harjotsk03/toDoListApp/static/js/main.bb83627d.js",
+    "static/media/LEMONMILK-Regular.otf": "/harjotsk03/toDoListApp/static/media/LEMONMILK-Regular.55fc24317b9c2b507dd8.otf",
+    "index.html": "/harjotsk03/toDoListApp/index.html",
+    "main.b65e3aee.css.map": "/harjotsk03/toDoListApp/static/css/main.b65e3aee.css.map",
+    "main.bb83627d.js.map": "/harjotsk03/toDoListApp/static/js/main.bb83627d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b65e3aee.css",
+    "static/js/main.bb83627d.js"
+  ]
+}
